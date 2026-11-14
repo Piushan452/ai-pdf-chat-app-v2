@@ -2,8 +2,6 @@
 
 An intelligent full-stack application that allows you to upload PDF documents and ask questions based on their content. Built with **React**, **FastAPI**, and **Google Gemini AI**.
 
-![App Screenshot](https://kommodo.ai/i/UGndIvorupoHAvsRQS0K) *(Replace with actual screenshot later)*
-
 ## 🚀 Features
 - **PDF Upload:** Upload any PDF document.
 - **Intelligent Q&A:** Ask questions and get answers based *only* on the uploaded document (RAG - Retrieval-Augmented Generation).
